@@ -2,9 +2,12 @@
 =
 将之前的控制台界面项目Worder整合成为GUI项目(带有浓重c色彩的c++代码...
 ### 开发环境
-OS: OS X 10.10.5<br \>
-Qt: Qt 5.8.0<br \>
-Compile: LLVM version 7.0.0 (clang-700.1.76)<br \>
+OS: OS X 10.10.5
+
+Qt: Qt 5.8.0
+
+Compile: LLVM version 7.0.0 (clang-700.1.76)
+
 C/C++
 ### 运行
 ![User Interface](./worder.png)
